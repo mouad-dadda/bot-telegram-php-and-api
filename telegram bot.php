@@ -206,6 +206,8 @@ if ($text == "/start") {
   );
 } elseif ($text == "JAVASCRIPT|📌") {
   $sql_command = "SELECT * FROM `books_t` WHERE `file_name`='javascript'  ";
+  
+  //GET FILE ID FROM Database
 
   $action = mysqli_query($connect, $sql_command);
 
