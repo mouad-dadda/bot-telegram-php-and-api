@@ -4,6 +4,6 @@
 
 🤖 The bot is in Arabic ;
 
-##### You can try  the bot  here ⬇
+##### You can try  the bot  here 
 
 [Click here](https://t.me/Yes_everything_bot)
