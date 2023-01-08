@@ -1,8 +1,6 @@
 ### Bot-Telegram-PHP-And-API
 
- This is a simple bot using php and api Telegram
-
-🤖 The bot is in Arabic 
+ This is a simple bot using php and api Telegram ,
 
 ##### You can try  the bot  here .
 
